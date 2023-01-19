@@ -1,0 +1,299 @@
+---------------Folder 0:------------
+--------UMBRAL: -4 hasta -2.95 con saltos de 0.35
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+Muy Negativo       0.32      0.03      0.06       350
+    Negativo       0.10      0.00      0.00       444
+      Neutro       0.20      0.00      0.00      1356
+    Positivo       0.21      0.00      0.00      3793
+ MuyPositivo       0.70      1.00      0.82     13392
+
+    accuracy                           0.69     19335
+   macro avg       0.31      0.21      0.18     19335
+weighted avg       0.54      0.69      0.57     19335
+
+--------UMBRAL: -3 hasta -1.9500000000000002 con saltos de 0.35
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+Muy Negativo       0.41      0.08      0.13       350
+    Negativo       0.32      0.02      0.04       444
+      Neutro       0.33      0.01      0.02      1356
+    Positivo       0.14      0.00      0.01      3793
+ MuyPositivo       0.70      1.00      0.82     13392
+
+    accuracy                           0.69     19335
+   macro avg       0.38      0.22      0.20     19335
+weighted avg       0.55      0.69      0.58     19335
+
+--------UMBRAL: -3.5 hasta -2.45 con saltos de 0.35
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+Muy Negativo       0.39      0.05      0.10       350
+    Negativo       0.00      0.00      0.00       444
+      Neutro       0.22      0.00      0.01      1356
+    Positivo       0.16      0.00      0.00      3793
+ MuyPositivo       0.70      1.00      0.82     13392
+
+    accuracy                           0.69     19335
+   macro avg       0.29      0.21      0.19     19335
+weighted avg       0.54      0.69      0.57     19335
+
+--------UMBRAL: -2.5 hasta -1.4500000000000002 con saltos de 0.35
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+Muy Negativo       0.32      0.11      0.16       350
+    Negativo       0.23      0.03      0.05       444
+      Neutro       0.18      0.01      0.02      1356
+    Positivo       0.27      0.01      0.01      3793
+ MuyPositivo       0.70      1.00      0.82     13392
+
+    accuracy                           0.69     19335
+   macro avg       0.34      0.23      0.21     19335
+weighted avg       0.56      0.69      0.58     19335
+
+---------------Folder 1:------------
+--------UMBRAL: -4 hasta -2.95 con saltos de 0.35
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+Muy Negativo       0.37      0.03      0.06       364
+    Negativo       0.17      0.00      0.01       481
+      Neutro       0.29      0.00      0.01      1344
+    Positivo       0.26      0.00      0.00      3748
+ MuyPositivo       0.70      1.00      0.82     13398
+
+    accuracy                           0.69     19335
+   macro avg       0.36      0.21      0.18     19335
+weighted avg       0.56      0.69      0.57     19335
+
+--------UMBRAL: -3 hasta -1.9500000000000002 con saltos de 0.35
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+Muy Negativo       0.40      0.08      0.13       364
+    Negativo       0.28      0.02      0.03       481
+      Neutro       0.23      0.01      0.01      1344
+    Positivo       0.16      0.00      0.01      3748
+ MuyPositivo       0.70      1.00      0.82     13398
+
+    accuracy                           0.69     19335
+   macro avg       0.35      0.22      0.20     19335
+weighted avg       0.55      0.69      0.58     19335
+
+--------UMBRAL: -3.5 hasta -2.45 con saltos de 0.35
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+Muy Negativo       0.45      0.06      0.11       364
+    Negativo       0.00      0.00      0.00       481
+      Neutro       0.22      0.00      0.01      1344
+    Positivo       0.17      0.00      0.00      3748
+ MuyPositivo       0.70      1.00      0.82     13398
+
+    accuracy                           0.69     19335
+   macro avg       0.31      0.21      0.19     19335
+weighted avg       0.54      0.69      0.57     19335
+
+--------UMBRAL: -2.5 hasta -1.4500000000000002 con saltos de 0.35
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+Muy Negativo       0.33      0.11      0.16       364
+    Negativo       0.25      0.03      0.05       481
+      Neutro       0.20      0.01      0.02      1344
+    Positivo       0.30      0.01      0.01      3748
+ MuyPositivo       0.70      1.00      0.82     13398
+
+    accuracy                           0.70     19335
+   macro avg       0.36      0.23      0.21     19335
+weighted avg       0.57      0.70      0.58     19335
+
+---------------Folder 2:------------
+--------UMBRAL: -4 hasta -2.95 con saltos de 0.35
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+Muy Negativo       0.23      0.02      0.04       347
+    Negativo       0.08      0.00      0.00       476
+      Neutro       0.31      0.00      0.01      1344
+    Positivo       0.23      0.00      0.00      3764
+ MuyPositivo       0.70      1.00      0.82     13404
+
+    accuracy                           0.69     19335
+   macro avg       0.31      0.21      0.17     19335
+weighted avg       0.55      0.69      0.57     19335
+
+--------UMBRAL: -3 hasta -1.9500000000000002 con saltos de 0.35
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+Muy Negativo       0.38      0.08      0.13       347
+    Negativo       0.20      0.01      0.02       476
+      Neutro       0.32      0.01      0.02      1344
+    Positivo       0.18      0.00      0.01      3764
+ MuyPositivo       0.70      1.00      0.82     13404
+
+    accuracy                           0.70     19335
+   macro avg       0.36      0.22      0.20     19335
+weighted avg       0.56      0.70      0.58     19335
+
+--------UMBRAL: -3.5 hasta -2.45 con saltos de 0.35
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+Muy Negativo       0.37      0.05      0.10       347
+    Negativo       0.00      0.00      0.00       476
+      Neutro       0.29      0.01      0.01      1344
+    Positivo       0.15      0.00      0.00      3764
+ MuyPositivo       0.70      1.00      0.82     13404
+
+    accuracy                           0.69     19335
+   macro avg       0.30      0.21      0.19     19335
+weighted avg       0.54      0.69      0.57     19335
+
+--------UMBRAL: -2.5 hasta -1.4500000000000002 con saltos de 0.35
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+Muy Negativo       0.33      0.11      0.16       347
+    Negativo       0.18      0.02      0.03       476
+      Neutro       0.22      0.01      0.02      1344
+    Positivo       0.27      0.01      0.01      3764
+ MuyPositivo       0.70      1.00      0.82     13404
+
+    accuracy                           0.70     19335
+   macro avg       0.34      0.23      0.21     19335
+weighted avg       0.57      0.70      0.58     19335
+
+---------------Folder 3:------------
+--------UMBRAL: -4 hasta -2.95 con saltos de 0.35
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+Muy Negativo       0.34      0.03      0.06       357
+    Negativo       0.17      0.00      0.01       485
+      Neutro       0.27      0.00      0.01      1382
+    Positivo       0.10      0.00      0.00      3793
+ MuyPositivo       0.69      1.00      0.82     13318
+
+    accuracy                           0.69     19335
+   macro avg       0.31      0.21      0.18     19335
+weighted avg       0.53      0.69      0.57     19335
+
+--------UMBRAL: -3 hasta -1.9500000000000002 con saltos de 0.35
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+Muy Negativo       0.44      0.10      0.16       357
+    Negativo       0.31      0.02      0.04       485
+      Neutro       0.26      0.01      0.02      1382
+    Positivo       0.17      0.00      0.01      3793
+ MuyPositivo       0.70      1.00      0.82     13318
+
+    accuracy                           0.69     19335
+   macro avg       0.38      0.23      0.21     19335
+weighted avg       0.55      0.69      0.57     19335
+
+--------UMBRAL: -3.5 hasta -2.45 con saltos de 0.35
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+Muy Negativo       0.43      0.07      0.12       357
+    Negativo       0.00      0.00      0.00       485
+      Neutro       0.18      0.00      0.01      1382
+    Positivo       0.20      0.00      0.00      3793
+ MuyPositivo       0.69      1.00      0.82     13318
+
+    accuracy                           0.69     19335
+   macro avg       0.30      0.21      0.19     19335
+weighted avg       0.54      0.69      0.57     19335
+
+--------UMBRAL: -2.5 hasta -1.4500000000000002 con saltos de 0.35
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+Muy Negativo       0.38      0.13      0.20       357
+    Negativo       0.22      0.02      0.04       485
+      Neutro       0.20      0.01      0.02      1382
+    Positivo       0.25      0.01      0.01      3793
+ MuyPositivo       0.70      1.00      0.82     13318
+
+    accuracy                           0.69     19335
+   macro avg       0.35      0.23      0.22     19335
+weighted avg       0.56      0.69      0.58     19335
+
+---------------Folder 4:------------
+--------UMBRAL: -4 hasta -2.95 con saltos de 0.35
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+Muy Negativo       0.35      0.03      0.06       354
+    Negativo       0.14      0.00      0.01       454
+      Neutro       0.17      0.00      0.00      1370
+    Positivo       0.25      0.00      0.00      3762
+ MuyPositivo       0.70      1.00      0.82     13396
+
+    accuracy                           0.69     19336
+   macro avg       0.32      0.21      0.18     19336
+weighted avg       0.55      0.69      0.57     19336
+
+--------UMBRAL: -3 hasta -1.9500000000000002 con saltos de 0.35
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+Muy Negativo       0.45      0.09      0.15       354
+    Negativo       0.27      0.02      0.04       454
+      Neutro       0.37      0.01      0.02      1370
+    Positivo       0.13      0.00      0.00      3762
+ MuyPositivo       0.70      1.00      0.82     13396
+
+    accuracy                           0.69     19336
+   macro avg       0.38      0.22      0.21     19336
+weighted avg       0.55      0.69      0.58     19336
+
+--------UMBRAL: -3.5 hasta -2.45 con saltos de 0.35
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+Muy Negativo       0.43      0.06      0.11       354
+    Negativo       0.00      0.00      0.00       454
+      Neutro       0.15      0.00      0.01      1370
+    Positivo       0.10      0.00      0.00      3762
+ MuyPositivo       0.70      1.00      0.82     13396
+
+    accuracy                           0.69     19336
+   macro avg       0.28      0.21      0.19     19336
+weighted avg       0.52      0.69      0.57     19336
+
+--------UMBRAL: -2.5 hasta -1.4500000000000002 con saltos de 0.35
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+Muy Negativo       0.37      0.12      0.19       354
+    Negativo       0.22      0.02      0.04       454
+      Neutro       0.22      0.01      0.02      1370
+    Positivo       0.27      0.01      0.01      3762
+ MuyPositivo       0.70      1.00      0.82     13396
+
+    accuracy                           0.70     19336
+   macro avg       0.35      0.23      0.22     19336
+weighted avg       0.57      0.70      0.58     19336
+
+--------UMBRAL: -2.5 hasta -1.4500000000000002 con saltos de 0.35
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+Muy Negativo       0.23      0.08      0.12       104
+    Negativo       0.13      0.01      0.02       145
+      Neutro       0.14      0.00      0.01       422
+    Positivo       0.34      0.01      0.02      1163
+ MuyPositivo       0.71      1.00      0.83      4209
+
+    accuracy                           0.70      6043
+   macro avg       0.31      0.22      0.20      6043
+weighted avg       0.57      0.70      0.58      6043
+
